@@ -1,0 +1,9 @@
+streamlit
+groq
+python-dotenv
+pandas
+requests
+beautifulsoup4
+sqlalchemy
+pydantic
+pypdf
